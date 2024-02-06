@@ -16,4 +16,4 @@ for tc in range(1,T+1):
 
     ans = f(pat, txt, M, N)
     print(f'#{tc} {ans}')
-### 이 글은 수정되었습니다.
+### 이 글은 수정되었습니다.!
